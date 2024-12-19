@@ -643,3 +643,7 @@ footer{
     color: #677b8c;
     cursor: pointer;
 }
+
+.seemoreicon a{
+    color: #666666;
+}
